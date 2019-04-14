@@ -25,5 +25,9 @@ public class UserController {
         return userRepository.findById(id);
     }
 
+    @PostMapping("/register")
+    public String register() {
+        return "testRegister";
+    }
 
 }
