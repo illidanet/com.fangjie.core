@@ -1,4 +1,4 @@
-package com.fangjie.core.Controller;
+package com.fangjie.core.controller;
 
 import com.fangjie.core.configuration.JwtProvider;
 import com.fangjie.core.configuration.JwtResponse;

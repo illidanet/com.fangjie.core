@@ -1,4 +1,4 @@
-package com.fangjie.core.Repository;
+package com.fangjie.core.repository;
 
 import com.fangjie.core.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;

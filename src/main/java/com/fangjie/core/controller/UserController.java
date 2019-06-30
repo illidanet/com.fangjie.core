@@ -1,6 +1,6 @@
-package com.fangjie.core.Controller;
+package com.fangjie.core.controller;
 
-import com.fangjie.core.Repository.UserRepository;
+import com.fangjie.core.repository.UserRepository;
 import com.fangjie.core.model.User;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.web.bind.annotation.*;

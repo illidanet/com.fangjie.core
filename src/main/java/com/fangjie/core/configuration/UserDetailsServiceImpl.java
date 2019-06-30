@@ -1,6 +1,6 @@
 package com.fangjie.core.configuration;
 
-import com.fangjie.core.Repository.UserRepository;
+import com.fangjie.core.repository.UserRepository;
 import com.fangjie.core.model.User;
 import lombok.Data;
 import org.springframework.security.core.userdetails.UserDetails;
